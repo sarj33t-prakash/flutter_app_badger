@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   Plugin to update the app badge on the launcher (both for Android, iOS and macOS)
                        DESC
-  s.homepage         = 'https://github.com/g123k/flutter_app_badger'
+  s.homepage         = 'https://github.com/sarj33t-prakash/flutter_app_badger'
   s.license          = { :file => '../LICENSE' }
   s.author           = 'Edouard Marquez'
   s.source           = { :path => '.' }
